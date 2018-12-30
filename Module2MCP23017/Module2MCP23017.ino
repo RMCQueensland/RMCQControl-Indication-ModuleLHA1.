@@ -8,6 +8,7 @@
  * LogicIndicatorA1_1 created by David Lowe 30971
  * on 01/09/18
  */
+ //testing
 
 /*Theory of operation
  * The system will start with the set position of each servo in a known initial position .
